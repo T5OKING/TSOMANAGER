@@ -2,7 +2,7 @@ future==0.18.2
 envparse==0.2.0
 multicolorcaptcha==1.2.0
 faker==9.4.0
-ffmpeg-python==0.2.25
+ffmpeg-python==0.2.0
 humanize==4.4.0
 wget==3.2
 secureme==0.0.4
