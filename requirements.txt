@@ -39,7 +39,7 @@ alphabet_detector==0.0.7
 cachetools==5.2.0
 dnspython==2.3.0
 fontTools==4.38.0
-gtts==2.4.1
+gtts==2.5.3
 tswift==1.1.1
 pytz==2022.6
 PyYAML==6.0
