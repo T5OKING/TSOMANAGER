@@ -65,3 +65,4 @@ pyrate-limiter==2.6.1
 python-arq
 telegraph
 markdown2
+nekos
