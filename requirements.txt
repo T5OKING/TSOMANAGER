@@ -24,7 +24,7 @@ pyrogram==2.0.106
 psycopg2-binary==2.9.10
 feedparser==6.0.10
 pynewtonmath==1.0
-spongemock==1.1
+spongemock==1.0.0
 zalgo-text==1.0
 geopy==2.3
 psutil==5.9.4
