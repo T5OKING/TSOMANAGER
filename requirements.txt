@@ -61,6 +61,6 @@ Pillow==9.3.0
 CurrencyConverter
 googletrans==4.0.0-rc1
 google_trans_new
-pyrate-limiter==3.7.0
+pyrate-limiter==2.6.1
 python-arq
 telegraph
