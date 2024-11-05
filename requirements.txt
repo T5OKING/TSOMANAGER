@@ -62,3 +62,4 @@ CurrencyConverter
 googletrans==4.0.0-rc1
 google_trans_new
 pyrate-limiter==3.7.0
+python-arq
