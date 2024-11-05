@@ -49,7 +49,7 @@ html_telegraph_poster==0.5.0
 pytube==12.1.0
 youtube-search-python==1.3.2
 PyLyrics==1.1.0
-hachoir==3.7.1
+hachoir==3.3.0
 pybase64==1.0.2
 pySmartDL==1.2.1
 validators==0.20.0
