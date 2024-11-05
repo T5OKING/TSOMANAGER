@@ -35,7 +35,7 @@ regex==2022.10.31
 bleach==6.0.0
 wikipedia==1.4.0
 spamwatch==0.3.0
-alphabet_detector==0.7.1
+alphabet_detector==0.0.7
 cachetools==5.2.0
 dnspython==2.3.0
 fontTools==4.38.0
