@@ -21,7 +21,7 @@ sqlalchemy==1.4.42
 telethon==1.24.0
 python-telegram-bot==20.0a1
 pyrogram==2.0.106
-psycopg2-binary==2.12.10
+psycopg2-binary==2.9.10
 feedparser==6.0.10
 pynewtonmath==0.11
 spongemock==1.1
