@@ -25,7 +25,7 @@ psycopg2-binary==2.9.10
 feedparser==6.0.10
 pynewtonmath==1.0
 spongemock==1.0.0
-zalgo-text==1.0
+zalgo-text==0.6
 geopy==2.3
 psutil==5.9.4
 jikanpy==3.2.0
