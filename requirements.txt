@@ -64,3 +64,4 @@ google_trans_new
 pyrate-limiter==2.6.1
 python-arq
 telegraph
+markdown2
