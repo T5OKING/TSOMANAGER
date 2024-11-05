@@ -40,7 +40,7 @@ cachetools==5.2.0
 dnspython==2.3.0
 fontTools==4.38.0
 gtts==2.5.3
-tswift==1.1.1
+tswift==0.7.0
 pytz==2022.6
 PyYAML==6.0
 html2text==2022.8.14
